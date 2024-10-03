@@ -1,3 +1,8 @@
+// HelloWorld.cpp
+//Dhanraj Chavan
+//24070123502
+//ENTC A3
+
 #include<iostream>
 #include<string>
 using namespace std;
@@ -32,6 +37,4 @@ Enter the vlue of float c: 56.435
 C = 56.435
 Enter the character z: a
 Z = a
-Enter your name: SohamJade
-Name: SohamJade
-Size of name: 24*/
+*/
